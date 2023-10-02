@@ -1,0 +1,38 @@
+E:\4803\minggu ke 4\imput data mahasiswa\imput data mahasiswa\bin\Debug\imput data mahasiswa.exe.config
+E:\4803\minggu ke 4\imput data mahasiswa\imput data mahasiswa\bin\Debug\imput data mahasiswa.exe
+E:\4803\minggu ke 4\imput data mahasiswa\imput data mahasiswa\bin\Debug\imput data mahasiswa.pdb
+E:\4803\minggu ke 4\imput data mahasiswa\imput data mahasiswa\obj\Debug\imput data mahasiswa.csprojAssemblyReference.cache
+E:\4803\minggu ke 4\imput data mahasiswa\imput data mahasiswa\obj\Debug\imput_data_mahasiswa.Form1.resources
+E:\4803\minggu ke 4\imput data mahasiswa\imput data mahasiswa\obj\Debug\imput_data_mahasiswa.Properties.Resources.resources
+E:\4803\minggu ke 4\imput data mahasiswa\imput data mahasiswa\obj\Debug\imput data mahasiswa.csproj.GenerateResource.cache
+E:\4803\minggu ke 4\imput data mahasiswa\imput data mahasiswa\obj\Debug\imput data mahasiswa.csproj.CoreCompileInputs.cache
+E:\4803\minggu ke 4\imput data mahasiswa\imput data mahasiswa\obj\Debug\imput data mahasiswa.exe
+E:\4803\minggu ke 4\imput data mahasiswa\imput data mahasiswa\obj\Debug\imput data mahasiswa.pdb
+D:\minggu ke 4\imput data mahasiswa\imput data mahasiswa\bin\Debug\imput data mahasiswa.exe.config
+D:\minggu ke 4\imput data mahasiswa\imput data mahasiswa\obj\Debug\imput data mahasiswa.exe
+D:\minggu ke 4\imput data mahasiswa\imput data mahasiswa\obj\Debug\imput data mahasiswa.pdb
+D:\minggu ke 4\imput data mahasiswa\imput data mahasiswa\bin\Debug\imput data mahasiswa.exe
+D:\minggu ke 4\imput data mahasiswa\imput data mahasiswa\bin\Debug\imput data mahasiswa.pdb
+D:\minggu ke 4\imput data mahasiswa\imput data mahasiswa\obj\Debug\imput data mahasiswa.csprojResolveAssemblyReference.cache
+D:\minggu ke 4\imput data mahasiswa\imput data mahasiswa\obj\Debug\imput_data_mahasiswa.Form1.resources
+D:\minggu ke 4\imput data mahasiswa\imput data mahasiswa\obj\Debug\imput_data_mahasiswa.Properties.Resources.resources
+D:\minggu ke 4\imput data mahasiswa\imput data mahasiswa\obj\Debug\imput data mahasiswa.csproj.GenerateResource.Cache
+D:\KL SEMESTER 3\pemrograman lanjut\minggu ke 4\input data mahasiswa\imput data mahasiswa\bin\Debug\imput data mahasiswa.exe.config
+D:\KL SEMESTER 3\pemrograman lanjut\minggu ke 4\input data mahasiswa\imput data mahasiswa\obj\Debug\imput data mahasiswa.exe
+D:\KL SEMESTER 3\pemrograman lanjut\minggu ke 4\input data mahasiswa\imput data mahasiswa\obj\Debug\imput data mahasiswa.pdb
+D:\KL SEMESTER 3\pemrograman lanjut\minggu ke 4\input data mahasiswa\imput data mahasiswa\bin\Debug\imput data mahasiswa.exe
+D:\KL SEMESTER 3\pemrograman lanjut\minggu ke 4\input data mahasiswa\imput data mahasiswa\bin\Debug\imput data mahasiswa.pdb
+D:\KL SEMESTER 3\pemrograman lanjut\minggu ke 4\input data mahasiswa\imput data mahasiswa\obj\Debug\imput data mahasiswa.csprojResolveAssemblyReference.cache
+D:\KL SEMESTER 3\pemrograman lanjut\minggu ke 4\input data mahasiswa\imput data mahasiswa\obj\Debug\imput_data_mahasiswa.Form1.resources
+D:\KL SEMESTER 3\pemrograman lanjut\minggu ke 4\input data mahasiswa\imput data mahasiswa\obj\Debug\imput_data_mahasiswa.Properties.Resources.resources
+D:\KL SEMESTER 3\pemrograman lanjut\minggu ke 4\input data mahasiswa\imput data mahasiswa\obj\Debug\imput data mahasiswa.csproj.GenerateResource.Cache
+C:\Users\QYQY\Desktop\imput data mahasiswa\bin\Debug\imput data mahasiswa.exe.config
+C:\Users\QYQY\Desktop\imput data mahasiswa\bin\Debug\imput data mahasiswa.exe
+C:\Users\QYQY\Desktop\imput data mahasiswa\bin\Debug\imput data mahasiswa.pdb
+C:\Users\QYQY\Desktop\imput data mahasiswa\obj\Debug\imput data mahasiswa.csproj.AssemblyReference.cache
+C:\Users\QYQY\Desktop\imput data mahasiswa\obj\Debug\imput_data_mahasiswa.Form1.resources
+C:\Users\QYQY\Desktop\imput data mahasiswa\obj\Debug\imput_data_mahasiswa.Properties.Resources.resources
+C:\Users\QYQY\Desktop\imput data mahasiswa\obj\Debug\imput data mahasiswa.csproj.GenerateResource.cache
+C:\Users\QYQY\Desktop\imput data mahasiswa\obj\Debug\imput data mahasiswa.csproj.CoreCompileInputs.cache
+C:\Users\QYQY\Desktop\imput data mahasiswa\obj\Debug\imput data mahasiswa.exe
+C:\Users\QYQY\Desktop\imput data mahasiswa\obj\Debug\imput data mahasiswa.pdb
